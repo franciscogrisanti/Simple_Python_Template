@@ -61,7 +61,7 @@ http://www.network-science.de/ascii/
   </a>
 
   <p align="center">
-     Given ST and scRNA-seq data of a tissue, STANN models cell-types in the scRNA-seq dataset from the genes that are profiled by both ST and scRNA-seq. The trained STANN model then assigns cell-types to the ST dataset.
+     Small description
     <br />
     <br />
     <br />
